@@ -1,3 +1,0 @@
-# Self-Management
-자기관리 옵시디언 연동
-초대 키 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
