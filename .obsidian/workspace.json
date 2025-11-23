@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "5c87df56547ebfbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "284bbb47ac50112e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74987eb84180cad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a285891ae3380df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6dd4064aa71e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Main/00_Main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Main"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d35424f88d3ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6381aac8b9ab1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9ba73e51c451d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "43c01c28d14015bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "5e117e8d676a363b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d11a45031e415fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b31fdee1e3fec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc33321954ea4295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록/05_02_01_25.11._2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "05_02_01_25.11._2 의 백링크"
+            }
+          },
+          {
+            "id": "68f4b56f3ec68761",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록/05_02_01_25.11._2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "05_02_01_25.11._2 의 나가는 링크"
+            }
+          },
+          {
+            "id": "71b511ccef0f0e3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "1e0d38f1234da3d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "8f94f4d9f3bb4890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록/05_02_01_25.11._2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "05_02_01_25.11._2 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false
+    }
+  },
+  "active": "9d6dd4064aa71e9b",
+  "lastOpenFiles": [
+    "00_Main/00_00_메인 페이지.md",
+    "00_Main/00_Main.md",
+    "01_Sources/01_02_현실 렌더링/01_02_현실 렌더링.md",
+    "05_Monthly Reviews/05_Monthly Reviews.md",
+    "01_Sources/01_02_현실 렌더링/01_02_01_25.11.23..md",
+    "01_Sources/01_Sources.md",
+    "05_Monthly Reviews/05_01_Check List/05_01_01_1개월 체크리스트/05_01_01_1개월 체크리스트.md",
+    "05_Monthly Reviews/05_01_Check List/05_01_Check List.md",
+    "05_Monthly Reviews/05_01_Check List/05_01_00_체크 리스트-리스트.md",
+    "01_Sources/01_01_아이디어 덤프.canvas",
+    "05_Monthly Reviews/05_01_Check List/05_01_02_현실 렌더링.md",
+    "05_Monthly Reviews/05_01_Check List/05_01_02_현실 렌더링",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_01_25.11._1.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록/05_02_00_회피 과제 기록.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_Avoidance Task.md",
+    "04_Outputs/04_Outputs.md",
+    "03_Themes/03_Themes.md",
+    "02_Analysis/02_Analysis.md",
+    "00_Main/00_01_Template/00_01_Template.md",
+    "00_Main/00_01_Template/05_01_03_1개월 시나리오 기획 체크리스트 템플릿.md",
+    "00_Main/00_01_Template/00_01_02_현실 렌더링 템플릿.md",
+    "00_Main/00_01_Template/00_01_01_회피 과제 기록 템플릿.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_01_25.11._2.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록 개요.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록/05_02_00_회피 과제 기록.base",
+    "무제.base",
+    "00_Main/00_01_Template/무제.base",
+    "05_Monthly Reviews/05_01_Check List/05_01_01_1개월 체크리스트/05_01_01_01_12월 시나리오 기획 목표 체크리스트.md",
+    "05_Monthly Reviews/05_02_Avoidance Task/무제.base",
+    "05_Monthly Reviews/05_02_Avoidance Task/05_02_00_회피 과제 기록",
+    "05_Monthly Reviews/05_01_Check List/05_01_01_1개월 체크리스트",
+    "01_Sources/01_02_현실 렌더링/무제.base",
+    "01_Sources/01_02_현실 렌더링",
+    "01_Sources/01_어딘가.md",
+    "00_Main/00_01_Template",
+    "02_00_회피 과제 기록.md",
+    "2025-11-23.md"
+  ]
+}

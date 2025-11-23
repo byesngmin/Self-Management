@@ -1,0 +1,8 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "대면 완료 여부": "checkbox"
+  }
+}
